@@ -140,3 +140,8 @@ markup과 markdown 모두 효과가 있습니다.
 깃허브는 이미지를 복사해서 붙여넣어도 임시로 업로드해서 주소를 만들어 줍니다.
 <img width="1200" height="675" alt="sample" src="https://github.com/user-attachments/assets/beacd810-6253-43f8-ae62-fb77982649da" />
 
+내가 가진 이미지도 표시할 수 있습니다.
+같은 저장소에 있다면 상대경로로 표시할 수 있습니다.
+
+![가나디](./dummy/ganadi.jpg)
+
