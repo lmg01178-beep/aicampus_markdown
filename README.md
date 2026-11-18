@@ -119,6 +119,13 @@ markup과 markdown 모두 효과가 있습니다.
 - [https://numpy.org/doc/](https://numpy.org/doc/)
 - <https://numpy.org/doc/>
 
+같은 저장소의 문서는 `상대경로`를 이용해서 접근할 수 있습니다.
+
+- [테스트문서](./dummy/test.md)
+
+
+
+
 
 
 
