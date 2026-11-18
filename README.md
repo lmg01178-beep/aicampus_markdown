@@ -135,7 +135,6 @@ markup과 markdown 모두 효과가 있습니다.
 ![이미지간단설명](이미지주소)
 ```
 
-![가나디이미지](https://www.bing.com/images/search?view=detailV2&ccid=SnkCx2vc&id=8A2F52370AD4B206DAA200CD2A2FCB41167D6455&thid=OIP.SnkCx2vcAzWD1AkUUJ2HOAAAAA&mediaurl=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNTA5MDdfNzgg%2FMDAxNzU3MjQ0OTAyOTc2.WKwlN1UyFD6rW3TSwoBjmkBKFtQeGKjbdTrCDJZpiUkg.NiM2Q1Ppjrz-ZUqBPr_dSQ-XOSV8B2BIwfwfpISjHtYg.JPEG%2FIMG%EF%BC%BF4519.JPG%3Ftype%3Dw966&exph=223&expw=382&q=%EA%B0%80%EB%82%98%EB%94%94+%EC%A7%A4&FORM=IRPRST&ck=BBE31FD310BC07670FA3A42AF653F268&selectedIndex=10&itb=0&cw=1164&ch=769&ajaxhist=0&ajaxserp=0)
-
+![가나디이미지](https://blog.naver.com/tofufufu/223560062862)
 
 
